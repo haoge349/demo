@@ -30,6 +30,7 @@ public class Demo2 {
             System.out.println("a");
             System.out.println("c");
             System.out.println("b");
+            System.out.println("d");
             String i = "";
 
         } catch (Exception e) {
