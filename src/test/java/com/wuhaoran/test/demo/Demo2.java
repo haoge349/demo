@@ -29,6 +29,7 @@ public class Demo2 {
             System.out.println("a");
             System.out.println("a");
             System.out.println("c");
+            System.out.println("b");
             String i = "";
 
         } catch (Exception e) {
